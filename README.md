@@ -2,7 +2,7 @@
 - 👀 I’m interested in SQL
 - 🌱 I’m currently learning Data analysis
 - 💞️ I’m looking to collaborate on data analysis
-- 📫 How to reach me _ishadeglurkar@gmail.COM
+- 📫 How to reach me _ishadeglurkar@gmail.com
 
 <!---
 ishadeglurkar/ishadeglurkar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
